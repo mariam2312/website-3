@@ -1,0 +1,68 @@
+
+*{
+    margin: 0;
+}
+    h1{
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 200px;
+    color:white;
+}
+span{
+    text-transform: capitalize;
+    color: coral;
+}
+h2{
+    text-transform: capitalize;
+    color: white;
+    font-size: 80px;
+}
+.a{
+    background-image: url(image/3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 200px;
+    text-align: center; 
+}
+.b{
+    background-color: orange;
+    text-align: center; 
+}
+h5{
+    background-color: black;
+    color:white;
+    
+}
+ul{
+    list-style-type: none;
+    text-align: right;
+    line-height: 5px;
+    
+    
+}
+ul li{
+    display:inline-block;
+    margin: 10px; 
+}
+.d{
+    text-align: center;
+    
+}
+.m{
+    margin: 40px;
+    border: 3px double mediumorchid;
+    
+}
+.n{
+    margin: 40px;
+    border: 3px double mediumorchid;
+}
+.o{
+    margin: 40px;
+    border: 3px double mediumorchid;
+}
+p{
+    text-align: center;
+}
